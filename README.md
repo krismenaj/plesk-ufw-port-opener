@@ -5,9 +5,9 @@ A small script that opens all the necessary ports with UFW for Plesk to function
 Since I run many servers, I was always catching myself adding manually the ports that need to be open on UFW. As this became really boring, I wrote a small script that adds all the necessary ports for Plesk and it's services.
 
 ## How to run the script
-Login as root in your server
-Copy the script to the folder of your choice
-Set run permissions
+- Login as root in your server
+- Copy the script to the folder of your choice
+- Set run permissions
 - ```chmod +x ufwplesk.sh```
 
 ## Which ports will be opened?
