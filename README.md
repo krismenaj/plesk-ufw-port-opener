@@ -16,4 +16,4 @@ https://support.plesk.com/hc/en-us/articles/213932745-Which-ports-should-be-open
 
 The passive ports are not added in the script.
 
-In case you'd like to add more ports to the script, then you could just edit the corresponding arrays with the corresponding port.
+In case you'd like to add more ports to the script, then you could just edit the arrays with the corresponding port.
