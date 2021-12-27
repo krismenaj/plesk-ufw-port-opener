@@ -8,7 +8,7 @@ Since I run many servers, I was always catching myself adding manually the ports
 - Login as root in your server
 - Copy the script to the folder of your choice
 - Set run permissions
-- ```chmod +x ufwplesk.sh```
+  - ```chmod +x ufwplesk.sh```
 
 ## Which ports will be opened?
 The ports that will be opened are all listed in the official Plesk article:
